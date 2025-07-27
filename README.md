@@ -90,9 +90,5 @@ cd python
 
 ---
 
-> 🌱 *"One commit a day keeps confusion away!"*
 
-```
-
----
 
