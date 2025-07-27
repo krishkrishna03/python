@@ -1,6 +1,32 @@
 # Daily Progress Log
 
-- Day 1: Setup and Python Basics
-# Daily Progress Log
-
-- ✅ Day 1: Setup folder structure and wrote basic intro
+- ✅ - Day 1: Setup and Python Basics
+- - Day 2: Variables and Data Types
+- - Day 3: Strings
+- - Day 4: Lists & Tuples
+- - Day 5: Dictionaries
+- - Day 6: Sets
+- - Day 7: Conditional Statements
+- - Day 8: Loops
+- - Day 9: Nested Loops
+- - Day 10: Functions (Basics)
+- - Day 11: Functions (Advanced)
+- - Day 12: Recursion
+- - Day 13: Lambda, Map, Filter, Reduce
+- - Day 14: List Comprehensions
+- - Day 15: Modules & Packages
+- - Day 16: File Handling
+- - Day 17: Exception Handling
+- - Day 18: OOP (Classes and Objects)
+- - Day 19: OOP Continued
+- - Day 20: Inheritance
+- - Day 21: Polymorphism
+- - Day 22: Built-in Libraries
+- - Day 23: Regular Expressions
+- - Day 24: JSON & APIs
+- - Day 25: Virtual Environments & pip
+- - Day 26: CLI Tools
+- - Day 27: Intro to NumPy
+- - Day 28: Intro to Pandas
+- - Day 29: Mini Project - Start
+- - Day 30: Mini Project - Finish
